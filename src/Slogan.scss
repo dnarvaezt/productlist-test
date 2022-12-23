@@ -1,0 +1,11 @@
+.slogan {
+  &__container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__info {
+    padding: 20px;
+    border: 1px solid black;
+  }
+}
